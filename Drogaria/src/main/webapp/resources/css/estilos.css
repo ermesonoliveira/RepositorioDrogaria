@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+
+
+.semBorda tr, .semBorda td {
+	border: none !important;
+}
+
